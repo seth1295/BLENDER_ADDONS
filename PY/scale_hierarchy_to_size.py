@@ -6,6 +6,7 @@ bl_info = {
     "location": "3D Viewport > Object > Scale Hierarchy to Size (or F3)",
     "description": "Uniformly scale a parent and all its children to an exact overall world-space size",
     "category": "Object",
+    "license": "MIT",
 }
 
 import bpy
